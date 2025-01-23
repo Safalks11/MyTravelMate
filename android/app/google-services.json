@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960612336671",
+    "project_id": "traveleesh-1",
+    "storage_bucket": "traveleesh-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960612336671:android:ef0e63c889016fc3cf012a",
+        "android_client_info": {
+          "package_name": "com.safal.main_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Y4ffkQd_kPC81ZHw1iL-1u0Jq4IjPjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
